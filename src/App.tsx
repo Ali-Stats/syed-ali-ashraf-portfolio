@@ -477,11 +477,11 @@ function App() {
                     <div>
 
                       <h3>
-                        Consultant
+                        Tableau Developer
                       </h3>
 
                       <p>
-                        Uneecops Business Solutions
+                         Uneecops Business Solutions · Consultant
                       </p>
 
                     </div>
