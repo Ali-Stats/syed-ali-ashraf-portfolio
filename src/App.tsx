@@ -951,7 +951,7 @@ function App() {
                   </div>
 
                   <a
-                    href="https://github.com/Ali-Stats"
+                    href="https://power-bi-mcp-assistant.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="project-link"
